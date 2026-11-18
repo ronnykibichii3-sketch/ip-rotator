@@ -285,4 +285,5 @@ places, illegal. Don't do that.
     python3 ~/ip-rotator/ip_rotator.py --stop
     ```
 
+For detailed per‑OS installation commands, see `INSTALLATION.md`.
 All of the above commands are identical to the Linux workflow; nothing in the original /home/ronny/ip-rotator folder has been modified.

@@ -142,6 +142,13 @@ which nmcli
 |------------------------|---------------------------------------------------|--------------------------------------------------|---------------------------------------------|
 | **Ubuntu / Mint / Debian** | `sudo apt update && sudo apt install -y python3 git` | `python3 import_profiles.py` | `python3 ip_rotator.py --daemon` |
 | **Windows (WSL 2)**    | Inside Ubuntu: `sudo apt update && sudo apt install -y python3 git` | same as above | same as above |
+## 📦 Command summary per OS
+
+| OS                | Install deps                              |
+|-------------------|-------------------------------------------|
+| **Ubuntu / Debian / Mint** | `sudo apt update && sudo apt install -y python3 git` |
+| **Fedora / RHEL**   | `sudo dnf install -y NetworkManager python3 git` |
+| **Arch Linux**     | `sudo pacman -S networkmanager python3 git` |
 
 ## 📄 Need help?
 
