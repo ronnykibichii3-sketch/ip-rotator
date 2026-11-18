@@ -1,0 +1,24 @@
+{
+  "salt": "PVBi3CjcvQBGwVB3xhakAA==",
+  "password_hash": "qWuYLfCzq/rYSyQrM0O+k81RhXksrY5iscGaAI9jRME=",
+  "interval_seconds": 300,
+  "profiles": [
+    "ipr-au-vpn759761201",
+    "ipr-jp-public-vpn-90",
+    "ipr-kr-vpn824185996",
+    "ipr-ph-vpn739271332",
+    "ipr-ro-opengw",
+    "ipr-us-vpn100383739"
+  ],
+  "protonvpn_cli": "protonvpn",
+  "proton_servers": [
+    "NL",
+    "DE",
+    "CH",
+    "US",
+    "SE"
+  ],
+  "ip_check_url": "https://api.ipify.org",
+  "proton_selection": "random",
+  "random_profiles": true
+}

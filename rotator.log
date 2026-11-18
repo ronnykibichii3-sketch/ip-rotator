@@ -1,0 +1,272 @@
+2026-11-13 13:12:59  protonvpn connect --random
+2026-11-13 13:17:51  connecting profile: ipr-ro-opengw
+2026-11-13 13:18:15  connecting profile: ipr-ph-vpn739271332
+2026-11-13 13:19:34  connecting profile: ipr-au-vpn759761201
+2026-11-13 13:20:19  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 13:20:19  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 13:20:30  connecting profile: ipr-us-vpn100383739
+2026-11-13 13:21:15  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 13:21:15  connecting profile: ipr-ph-vpn739271332
+2026-11-13 13:26:55  started (pid 699925), interval 300s
+2026-11-13 13:26:56  connecting profile: ipr-kr-vpn824185996
+2026-11-13 13:27:09  public IP now: 118.34.210.174
+2026-11-13 13:32:09  connecting profile: ipr-au-vpn759761201
+2026-11-13 13:32:54  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 13:32:54  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 13:33:10  public IP now: 219.100.37.236
+2026-11-13 13:38:11  connecting profile: ipr-ro-opengw
+2026-11-13 13:38:36  public IP now: 187.15.134.160
+2026-11-13 13:43:37  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 13:43:55  public IP now: 219.100.37.236
+2026-11-13 13:48:55  connecting profile: ipr-ro-opengw
+2026-11-13 13:49:14  public IP now: 187.15.135.234
+2026-11-13 13:54:15  connecting profile: ipr-us-vpn100383739
+2026-11-13 13:55:00  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 13:55:00  connecting profile: ipr-ph-vpn739271332
+2026-11-13 13:55:12  public IP now: 122.2.109.81
+2026-11-13 14:00:13  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 14:00:26  public IP now: 219.100.37.236
+2026-11-13 14:05:26  connecting profile: ipr-us-vpn100383739
+2026-11-13 14:06:11  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 14:06:12  connecting profile: ipr-kr-vpn824185996
+2026-11-13 14:06:26  public IP now: 118.34.210.174
+2026-11-13 14:11:26  connecting profile: ipr-ph-vpn739271332
+2026-11-13 14:11:44  public IP now: unknown
+2026-11-13 14:16:45  connecting profile: ipr-us-vpn100383739
+2026-11-13 14:17:30  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 14:17:30  connecting profile: ipr-kr-vpn824185996
+2026-11-13 14:17:43  public IP now: 118.34.210.174
+2026-11-13 14:22:44  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 14:22:57  public IP now: 219.100.37.236
+2026-11-13 14:27:58  connecting profile: ipr-au-vpn759761201
+2026-11-13 14:28:43  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 14:28:43  connecting profile: ipr-ro-opengw
+2026-11-13 14:28:57  public IP now: 187.15.135.98
+2026-11-13 14:33:58  connecting profile: ipr-kr-vpn824185996
+2026-11-13 14:34:11  public IP now: 118.34.210.174
+2026-11-13 14:39:11  connecting profile: ipr-ph-vpn739271332
+2026-11-13 14:39:32  public IP now: unknown
+2026-11-13 14:44:33  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 14:44:58  public IP now: 219.100.37.236
+2026-11-13 14:49:59  connecting profile: ipr-kr-vpn824185996
+2026-11-13 14:50:12  public IP now: 118.34.210.174
+2026-11-13 14:55:12  connecting profile: ipr-ph-vpn739271332
+2026-11-13 14:55:27  public IP now: 122.2.109.81
+2026-11-13 15:00:28  connecting profile: ipr-ro-opengw
+2026-11-13 15:00:56  public IP now: 187.15.134.160
+2026-11-13 15:05:56  connecting profile: ipr-kr-vpn824185996
+2026-11-13 15:06:09  public IP now: 118.34.210.174
+2026-11-13 15:11:10  connecting profile: ipr-us-vpn100383739
+2026-11-13 15:11:52  public IP now: 128.211.249.142
+2026-11-13 15:16:52  connecting profile: ipr-ro-opengw
+2026-11-13 15:17:12  public IP now: 187.15.134.160
+2026-11-13 15:22:13  connecting profile: ipr-kr-vpn824185996
+2026-11-13 15:22:25  public IP now: 118.34.210.174
+2026-11-13 15:27:25  connecting profile: ipr-us-vpn100383739
+2026-11-13 15:28:10  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 15:28:10  connecting profile: ipr-ph-vpn739271332
+2026-11-13 15:28:55  ipr-ph-vpn739271332: timed out, skipping
+2026-11-13 15:28:55  connecting profile: ipr-au-vpn759761201
+2026-11-13 15:29:40  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 15:29:41  rotation error: no profile could be brought up (last error: ipr-au-vpn759761201: timeout)
+2026-11-13 15:34:42  connecting profile: ipr-ph-vpn739271332
+2026-11-13 15:34:58  public IP now: 122.2.109.81
+2026-11-13 15:39:58  connecting profile: ipr-ro-opengw
+2026-11-13 15:40:11  public IP now: 187.15.135.98
+2026-11-13 15:45:11  connecting profile: ipr-kr-vpn824185996
+2026-11-13 15:45:24  public IP now: 118.34.210.174
+2026-11-13 15:50:25  connecting profile: ipr-us-vpn100383739
+2026-11-13 15:51:10  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 15:51:10  connecting profile: ipr-au-vpn759761201
+2026-11-13 15:51:55  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 15:51:55  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 15:52:08  public IP now: 219.100.37.236
+2026-11-13 15:57:08  connecting profile: ipr-kr-vpn824185996
+2026-11-13 15:57:33  public IP now: 118.34.210.174
+2026-11-13 16:02:33  connecting profile: ipr-ro-opengw
+2026-11-13 16:03:04  public IP now: 187.15.134.131
+2026-11-13 16:08:05  connecting profile: ipr-ph-vpn739271332
+2026-11-13 16:08:16  public IP now: 122.2.109.81
+2026-11-13 16:13:17  connecting profile: ipr-us-vpn100383739
+2026-11-13 16:14:02  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 16:14:02  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 16:14:15  public IP now: 219.100.37.236
+2026-11-13 16:19:02  stopped
+2026-11-13 16:21:20  started (pid 2007), interval 300s
+2026-11-13 16:21:20  connecting profile: ipr-au-vpn759761201
+2026-11-13 16:22:05  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 16:22:05  connecting profile: ipr-kr-vpn824185996
+2026-11-13 16:22:18  public IP now: 118.34.210.174
+2026-11-13 16:27:19  connecting profile: ipr-ro-opengw
+2026-11-13 16:27:39  public IP now: 187.15.134.131
+2026-11-13 16:32:39  connecting profile: ipr-ph-vpn739271332
+2026-11-13 16:32:51  public IP now: 122.2.109.81
+2026-11-13 16:37:51  connecting profile: ipr-us-vpn100383739
+2026-11-13 16:38:36  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 16:38:37  connecting profile: ipr-au-vpn759761201
+2026-11-13 16:39:22  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 16:39:22  connecting profile: ipr-kr-vpn824185996
+2026-11-13 16:39:34  public IP now: 118.34.210.174
+2026-11-13 16:44:34  connecting profile: ipr-ph-vpn739271332
+2026-11-13 16:44:46  public IP now: 122.2.109.81
+2026-11-13 16:49:46  connecting profile: ipr-us-vpn100383739
+2026-11-13 16:50:31  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 16:50:31  connecting profile: ipr-kr-vpn824185996
+2026-11-13 16:50:43  public IP now: 118.34.210.174
+2026-11-13 16:55:43  connecting profile: ipr-ph-vpn739271332
+2026-11-13 16:55:56  public IP now: 122.2.109.81
+2026-11-13 17:00:56  connecting profile: ipr-us-vpn100383739
+2026-11-13 17:01:41  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 17:01:41  connecting profile: ipr-ro-opengw
+2026-11-13 17:02:00  public IP now: 187.15.135.98
+2026-11-13 17:07:01  connecting profile: ipr-au-vpn759761201
+2026-11-13 17:07:46  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 17:07:46  connecting profile: ipr-us-vpn100383739
+2026-11-13 17:08:31  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 17:08:31  connecting profile: ipr-ph-vpn739271332
+2026-11-13 17:08:41  public IP now: 122.2.109.81
+2026-11-13 17:13:41  connecting profile: ipr-kr-vpn824185996
+2026-11-13 17:14:07  public IP now: 118.34.210.174
+2026-11-13 17:19:07  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 17:19:23  public IP now: 219.100.37.236
+2026-11-13 17:24:24  connecting profile: ipr-au-vpn759761201
+2026-11-13 17:25:09  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 17:25:09  connecting profile: ipr-ro-opengw
+2026-11-13 17:25:22  public IP now: 187.15.134.160
+2026-11-13 17:30:22  connecting profile: ipr-au-vpn759761201
+2026-11-13 17:31:06  failed to bring up ipr-au-vpn759761201: Error: Connection activation failed: Disconnected by user
+Hint: use 'journalctl -xe NM_CONNECTION=405ee079-5e32-4ba0-beeb-383b3bc333bd + NM_DEVICE=wlp2s0' to ge
+2026-11-13 17:31:06  connecting profile: ipr-ph-vpn739271332
+2026-11-13 17:31:10  failed to bring up ipr-ph-vpn739271332: Error: Connection activation failed: Disconnected by user
+Hint: use 'journalctl -xe NM_CONNECTION=e4498da3-c8ba-41bc-bff8-3bd55f585eca + NM_DEVICE=wlp2s0' to ge
+2026-11-13 17:31:10  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 17:31:24  public IP now: 151.18.81.88
+2026-11-13 17:36:24  connecting profile: ipr-au-vpn759761201
+2026-11-13 17:37:09  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 17:37:09  connecting profile: ipr-us-vpn100383739
+2026-11-13 17:37:54  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 17:37:55  connecting profile: ipr-ph-vpn739271332
+2026-11-13 17:38:10  public IP now: 122.2.109.81
+2026-11-13 17:43:10  connecting profile: ipr-kr-vpn824185996
+2026-11-13 17:44:03  public IP now: 118.34.210.174
+2026-11-13 17:49:03  connecting profile: ipr-ro-opengw
+2026-11-13 17:49:26  public IP now: 187.15.134.131
+2026-11-13 17:54:26  connecting profile: ipr-us-vpn100383739
+2026-11-13 17:55:11  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 17:55:11  connecting profile: ipr-ph-vpn739271332
+2026-11-13 17:55:21  public IP now: unknown
+2026-11-13 18:00:21  connecting profile: ipr-au-vpn759761201
+2026-11-13 18:01:06  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 18:01:06  connecting profile: ipr-kr-vpn824185996
+2026-11-13 18:01:18  public IP now: 118.34.210.174
+2026-11-13 18:06:19  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 18:06:34  public IP now: 219.100.37.236
+2026-11-13 18:11:34  connecting profile: ipr-au-vpn759761201
+2026-11-13 18:12:20  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 18:12:20  connecting profile: ipr-ph-vpn739271332
+2026-11-13 18:12:31  public IP now: 122.2.109.81
+2026-11-13 18:17:32  connecting profile: ipr-us-vpn100383739
+2026-11-13 18:17:52  failed to bring up ipr-us-vpn100383739: Error: Connection activation failed: Disconnected by user
+Hint: use 'journalctl -xe NM_CONNECTION=c15db6b4-1a00-4da9-a7a4-5dd2163586d2 + NM_DEVICE=wlp2s0' to ge
+2026-11-13 18:17:52  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 18:17:57  failed to bring up ipr-jp-public-vpn-90: Error: Connection activation failed: Disconnected by user
+Hint: use 'journalctl -xe NM_CONNECTION=2d159393-483d-489c-ac4d-5379adf0bb92 + NM_DEVICE=wlp2s0' to ge
+2026-11-13 18:17:57  connecting profile: ipr-au-vpn759761201
+2026-11-13 18:18:42  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 18:18:42  rotation error: no profile could be brought up (last error: ipr-au-vpn759761201: timeout)
+2026-11-13 18:23:42  connecting profile: ipr-us-vpn100383739
+2026-11-13 18:24:28  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 18:24:28  connecting profile: ipr-ro-opengw
+2026-11-13 18:24:41  public IP now: 187.15.135.98
+2026-11-13 18:29:41  connecting profile: ipr-kr-vpn824185996
+2026-11-13 18:29:51  public IP now: unknown
+2026-11-13 18:34:51  connecting profile: ipr-ph-vpn739271332
+2026-11-13 18:35:03  public IP now: 122.2.109.81
+2026-11-13 18:40:03  connecting profile: ipr-us-vpn100383739
+2026-11-13 18:40:48  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 18:40:48  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 18:41:06  public IP now: 219.100.37.236
+2026-11-13 18:46:06  connecting profile: ipr-ph-vpn739271332
+2026-11-13 18:46:19  public IP now: 122.2.109.81
+2026-11-13 18:51:20  connecting profile: ipr-ro-opengw
+2026-11-13 18:51:54  public IP now: 187.15.135.234
+2026-11-13 18:56:54  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 18:57:47  public IP now: 219.100.37.236
+2026-11-13 19:02:48  connecting profile: ipr-ph-vpn739271332
+2026-11-13 19:02:58  public IP now: 122.2.109.81
+2026-11-13 19:07:58  connecting profile: ipr-kr-vpn824185996
+2026-11-13 19:08:12  public IP now: 118.34.210.174
+2026-11-13 19:13:12  connecting profile: ipr-au-vpn759761201
+2026-11-13 19:13:57  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 19:13:57  connecting profile: ipr-us-vpn100383739
+2026-11-13 19:14:42  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 19:14:42  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 19:15:05  public IP now: unknown
+2026-11-13 19:20:05  connecting profile: ipr-kr-vpn824185996
+2026-11-13 19:20:50  ipr-kr-vpn824185996: timed out, skipping
+2026-11-13 19:20:50  connecting profile: ipr-ro-opengw
+2026-11-13 19:21:35  ipr-ro-opengw: timed out, skipping
+2026-11-13 19:21:35  connecting profile: ipr-au-vpn759761201
+2026-11-13 19:22:21  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 19:22:21  rotation error: no profile could be brought up (last error: ipr-au-vpn759761201: timeout)
+2026-11-13 19:27:22  connecting profile: ipr-ph-vpn739271332
+2026-11-13 19:27:37  public IP now: 122.2.109.81
+2026-11-13 19:44:35  connecting profile: ipr-kr-vpn824185996
+2026-11-13 19:44:48  public IP now: 118.34.210.174
+2026-11-13 19:49:48  connecting profile: ipr-us-vpn100383739
+2026-11-13 19:50:33  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 19:50:34  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 19:50:51  public IP now: 219.100.37.236
+2026-11-13 19:55:52  connecting profile: ipr-au-vpn759761201
+2026-11-13 19:56:37  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 19:56:37  connecting profile: ipr-ro-opengw
+2026-11-13 19:57:14  public IP now: 187.15.135.234
+2026-11-13 20:02:14  connecting profile: ipr-kr-vpn824185996
+2026-11-13 20:02:59  ipr-kr-vpn824185996: timed out, skipping
+2026-11-13 20:02:59  connecting profile: ipr-ph-vpn739271332
+2026-11-13 20:03:17  public IP now: 122.2.109.81
+2026-11-13 20:08:18  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 20:08:55  public IP now: 219.100.37.236
+2026-11-13 20:13:56  connecting profile: ipr-au-vpn759761201
+2026-11-13 20:14:41  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 20:14:41  connecting profile: ipr-ro-opengw
+2026-11-13 20:15:26  ipr-ro-opengw: timed out, skipping
+2026-11-13 20:15:26  connecting profile: ipr-kr-vpn824185996
+2026-11-13 20:16:11  ipr-kr-vpn824185996: timed out, skipping
+2026-11-13 20:16:11  rotation error: no profile could be brought up (last error: ipr-kr-vpn824185996: timeout)
+2026-11-13 20:21:12  connecting profile: ipr-ph-vpn739271332
+2026-11-13 20:21:23  public IP now: 122.2.109.81
+2026-11-13 20:26:24  connecting profile: ipr-au-vpn759761201
+2026-11-13 20:27:09  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 20:27:09  connecting profile: ipr-us-vpn100383739
+2026-11-13 20:27:54  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 20:27:55  connecting profile: ipr-jp-public-vpn-90
+2026-11-13 20:28:11  public IP now: 219.100.37.236
+2026-11-13 20:33:11  connecting profile: ipr-au-vpn759761201
+2026-11-13 20:33:56  ipr-au-vpn759761201: timed out, skipping
+2026-11-13 20:33:56  connecting profile: ipr-us-vpn100383739
+2026-11-13 20:34:41  ipr-us-vpn100383739: timed out, skipping
+2026-11-13 20:34:42  connecting profile: ipr-ro-opengw
+2026-11-13 20:34:58  public IP now: 187.15.134.160
+2026-11-13 20:39:58  connecting profile: ipr-kr-vpn824185996
+2026-11-13 20:40:35  public IP now: 118.34.210.174
+2026-11-13 20:42:39  stopped
+2026-11-14 10:10:24  started (pid 2001), interval 300s
+2026-11-14 10:10:25  connecting profile: ipr-ph-vpn739271332
+2026-11-14 10:10:35  public IP now: 151.82.27.173
+2026-11-14 10:15:36  connecting profile: ipr-au-vpn759761201
+2026-11-14 10:15:47  public IP now: 125.253.56.120
+2026-11-14 10:20:48  connecting profile: ipr-jp-public-vpn-90
+2026-11-14 10:21:26  public IP now: 219.100.37.236
+2026-11-14 10:26:27  connecting profile: ipr-us-vpn100383739
+2026-11-14 10:27:12  ipr-us-vpn100383739: timed out, skipping
+2026-11-14 10:27:12  connecting profile: ipr-ph-vpn739271332
+2026-11-14 10:27:25  public IP now: 122.2.109.81
+2026-11-14 10:27:25  stopped
+2026-11-15 18:47:00  access denied - wrong password
+2026-11-15 21:58:01  access denied - wrong password
+2026-11-16 21:00:39  access denied - wrong password
+2026-11-17 09:22:21  access denied - wrong password
+2026-11-17 15:56:13  access denied - wrong password
+2026-11-17 18:51:11  access denied - wrong password
+2026-11-18 16:07:05  access denied - wrong password
