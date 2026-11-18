@@ -285,7 +285,7 @@ places, illegal. Don't do that.
     python3 ~/ip-rotator/ip_rotator.py --stop
     ```
 
-*All of the above commands are **identical** to the Linux workflow; nothing in the original `/home/ronny/ip-rotator` folder has been modified.*
+All of the above commands are identical to the Linux workflow; nothing in the original /home/ronny/ip-rotator folder has been modified.
 
 **Note:** The `README.md` is now included in the repository along with all other files.
 
